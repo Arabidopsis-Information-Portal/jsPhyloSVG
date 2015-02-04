@@ -1,0 +1,24 @@
+{
+  "name": "jsPhyloSVG",
+  "main": "jsphylosvg-min.js",
+  "version": "1.55",
+  "homepage": "http://www.jsphylosvg.com",
+  "description": "render customizable phylogenetic trees",
+  "keywords": [
+    "tree",
+    "phylogenetic",
+    "svg",
+    "js"
+  ],
+  "authors": [
+    "Samuel Smits"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
