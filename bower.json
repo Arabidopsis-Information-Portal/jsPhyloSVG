@@ -1,6 +1,9 @@
 {
   "name": "jsPhyloSVG",
-  "main": "jsphylosvg-min.js",
+    "main": [
+	"jsphylosvg-min.js",
+	"raphael-min.js"
+    ],
   "version": "1.55",
   "homepage": "http://www.jsphylosvg.com",
   "description": "render customizable phylogenetic trees",
